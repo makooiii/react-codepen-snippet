@@ -112,7 +112,7 @@ function TimeArea() {
 }
 
 function OurHeader() {
-  return /*#__PURE__*/React.createElement("h1", { className: "special" }, "Our Amazing App Header");
+  return /*#__PURE__*/React.createElement("h1", { className: "special" }, "React simple App Header");
 }
 
 const root = ReactDOM.createRoot(document.querySelector("#app"));
